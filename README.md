@@ -1,5 +1,5 @@
 ### Hi 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjinh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjinh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjinh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zjinh&repo=CloudDisk)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zjinh&repo=CloudMusic)](https://github.com/anuraghazra/github-readme-stats)
